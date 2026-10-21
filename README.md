@@ -4,9 +4,9 @@
 
 # Kessho
 
-**Give your AI agents a memory — on your machine.**
+**A structured memory for your AI agents — on your machine.**
 
-A vault of Markdown files that belongs to you, which your agents read and extend over MCP from one session to the next.
+A vault of Markdown files that belongs to you, organised so it stays under control as it grows, which your agents read and extend over MCP from one session to the next.
 
 [![Latest release](https://img.shields.io/github/v/release/ArboRithm/Kessho?label=release&color=4C40D4)](https://github.com/ArboRithm/Kessho/releases/latest) [![Platforms](https://img.shields.io/badge/macOS%20%C2%B7%20Windows-4C40D4?label=platforms)](#download) [![Documentation](https://img.shields.io/badge/docs-arborithm.github.io-AD8B4A)](https://arborithm.github.io/Kessho/en/)
 
@@ -20,7 +20,7 @@ A vault of Markdown files that belongs to you, which your agents read and extend
 
 ## Why Kessho
 
-An AI agent forgets everything when the session ends. Kessho gives it, and you, one shared memory: plain Markdown files in a folder you own, organised in zones (sessions, knowledge, procedures, principles, goals, people), that the agent reads to pick up where you left off and writes to as the work goes on.
+An AI agent forgets everything when the session ends. The usual fix is a simple, flat memory — one file, or a pile of notes — that nobody tidies and whose growth is not controlled: sooner or later the agent drowns in it. Kessho gives you and your agent a **structured** memory instead: plain Markdown files in a folder you own, organised in zones (sessions, knowledge, procedures, principles, goals, people), projects and domains, with summaries, archives and health checks. The agent reads it to pick up where you left off and writes to it as the work goes on, and it stays navigable as it grows.
 
 You keep the files. Your agent keeps the thread. Kessho keeps everything in order.
 

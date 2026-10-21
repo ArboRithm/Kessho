@@ -4,9 +4,9 @@
 
 # Kessho
 
-**Donnez une mémoire à vos agents IA — sur votre poste.**
+**Une mémoire structurée pour vos agents IA — sur votre poste.**
 
-Un vault de fichiers Markdown qui vous appartient, que vos agents lisent et complètent par MCP d'une session à l'autre.
+Un vault de fichiers Markdown qui vous appartient, rangé pour que sa croissance reste maîtrisée, que vos agents lisent et complètent par MCP d'une session à l'autre.
 
 [![Dernière version](https://img.shields.io/github/v/release/ArboRithm/Kessho?label=version&color=4C40D4)](https://github.com/ArboRithm/Kessho/releases/latest) [![Plateformes](https://img.shields.io/badge/macOS%20%C2%B7%20Windows-4C40D4?label=plateformes)](#télécharger) [![Documentation](https://img.shields.io/badge/doc-arborithm.github.io-AD8B4A)](https://arborithm.github.io/Kessho/)
 
@@ -20,7 +20,7 @@ Un vault de fichiers Markdown qui vous appartient, que vos agents lisent et comp
 
 ## Pourquoi Kessho
 
-Un agent IA oublie tout à la fin de la session. Kessho lui donne, ainsi qu'à vous, une mémoire commune : de simples fichiers Markdown dans un dossier qui vous appartient, rangés par zones (sessions, connaissances, procédures, principes, objectifs, personnes), que l'agent lit pour reprendre là où vous en étiez et complète au fil du travail.
+Un agent IA oublie tout à la fin de la session. Le remède habituel est une mémoire simple et plate — un fichier, ou un tas de notes — que personne ne range et dont la croissance n'est pas contrôlée : tôt ou tard, l'agent s'y noie. Kessho vous donne, à vous et à votre agent, une mémoire **structurée** : de simples fichiers Markdown dans un dossier qui vous appartient, rangés par zones (sessions, connaissances, procédures, principes, objectifs, personnes), projets et domaines, avec des résumés, des archives et des contrôles de santé. L'agent la lit pour reprendre là où vous en étiez et la complète au fil du travail, et elle reste lisible en grossissant.
 
 Vous gardez les fichiers. Votre agent garde le fil. Kessho garde tout en ordre.
 
