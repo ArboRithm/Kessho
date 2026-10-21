@@ -37,16 +37,16 @@ You keep the files. Your agent keeps the thread. Kessho keeps everything in orde
 
 Kessho speaks the [Model Context Protocol](https://modelcontextprotocol.io). Connect it from the app (**Settings › MCP connectors**), then just talk to your agent:
 
-> *"Pick up where we left off on the invoicing project."*
+> _"Pick up where we left off on the invoicing project."_
 
 The [agent guide](https://arborithm.github.io/Kessho/en/agent/) walks through real use cases: resume, search, write, archive, sync, maintain.
 
 ## Download
 
-| Platform | Requirements | File |
-|---|---|---|
-| **macOS** | Apple Silicon, macOS 11 or later | `Kessho_<version>_aarch64.dmg` |
-| **Windows** | x64 | `Kessho_<version>_x64-setup.exe` |
+| Platform    | Requirements                     | File                             |
+| ----------- | -------------------------------- | -------------------------------- |
+| **macOS**   | Apple Silicon, macOS 11 or later | `Kessho_<version>_aarch64.dmg`   |
+| **Windows** | x64                              | `Kessho_<version>_x64-setup.exe` |
 
 The first public release, **0.3.0**, is on its way: it will appear on the [releases page](https://github.com/ArboRithm/Kessho/releases). Kessho then offers its own updates — nothing installs without your consent.
 

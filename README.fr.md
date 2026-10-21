@@ -37,16 +37,16 @@ Vous gardez les fichiers. Votre agent garde le fil. Kessho garde tout en ordre.
 
 Kessho parle le [Model Context Protocol](https://modelcontextprotocol.io). Connectez-le depuis l'application (**Réglages › Connecteurs MCP**), puis parlez simplement à votre agent :
 
-> *« On reprend là où on en était sur le projet de facturation. »*
+> _« On reprend là où on en était sur le projet de facturation. »_
 
 Le [guide « Avec un agent »](https://arborithm.github.io/Kessho/agent/) déroule des cas d'usage réels : reprendre, chercher, écrire, archiver, synchroniser, entretenir.
 
 ## Télécharger
 
-| Plateforme | Prérequis | Fichier |
-|---|---|---|
-| **macOS** | Apple Silicon, macOS 11 ou plus récent | `Kessho_<version>_aarch64.dmg` |
-| **Windows** | x64 | `Kessho_<version>_x64-setup.exe` |
+| Plateforme  | Prérequis                              | Fichier                          |
+| ----------- | -------------------------------------- | -------------------------------- |
+| **macOS**   | Apple Silicon, macOS 11 ou plus récent | `Kessho_<version>_aarch64.dmg`   |
+| **Windows** | x64                                    | `Kessho_<version>_x64-setup.exe` |
 
 La première version publique, la **0.3.0**, arrive : elle apparaîtra sur la [page des versions](https://github.com/ArboRithm/Kessho/releases). Kessho propose ensuite ses propres mises à jour — rien ne s'installe sans votre accord.
 
