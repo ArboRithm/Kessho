@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Kessho">
+  <title>Kessho</title>
+  <!--
+    Source unique du jeu d'icônes natif : `npm run icons` (`tauri icon`) en dérive
+    les PNG, l'ICO et l'ICNS. Ne pas la modifier à la main sans régénérer le jeu,
+    sinon les binaires porteraient une icône que cette source ne décrit plus.
+
+    LE MONOGRAMME DE KESSHO, et non plus celui de SecondBrain. Le tracé
+    précédent était le monogramme indigo `#5B4FE9` hérité du produit remplacé :
+    il a survécu au rebranding de l'épique 061, qui n'avait pas de nouvelle
+    marque à lui substituer.
+
+    Un hexagone à plat où se lit un cube. Trois faces, trois matières de la
+    charte — laiton, acier, malachite — et quatre cellules par face dont la
+    VALEUR descend avec la distance au nucleus. Les trois interdits de la
+    planche sont évités : pas une teinte par cellule, pas une valeur unique,
+    pas de joint aussi fort que l'aplat.
+
+    Les douze cellules sont ENGENDRÉES et non placées : trois losanges pris
+    dans un hexagone de rayon 11, chacun découpé en quatre. Le générateur est
+    celui de la planche, porté tel quel.
+
+    Les valeurs sont ici LITTÉRALES, contrairement au composant
+    `src/design/Monogramme.tsx` qui les prend aux jetons : un fichier d'icône
+    est lu hors de toute feuille de style, par le système, qui ne connaît ni
+    nos variables ni notre thème.
+
+    Deux écarts assumés, repris de la source précédente :
+    - plaque pleine plutôt que fond transparent — `tauri icon` n'ajoute ni marge
+      ni masque, et une marque flottante se découperait mal dans le Dock ;
+    - rayon 229 = 0,2237 × 1024, la proportion du squircle macOS.
+  -->
+  <rect width="1024" height="1024" rx="229" ry="229" fill="#16161c"/>
+  <g transform="translate(165.6 165.6) scale(28.86)" stroke="#16161c" stroke-width="0.5" stroke-linejoin="round">
+    <polygon points="1.000,12.000 3.750,7.237 9.250,7.237 6.500,12.000" fill="#8f6e33"/>
+    <polygon points="6.500,12.000 9.250,7.237 14.750,7.237 12.000,12.000" fill="#d9a441"/>
+    <polygon points="3.750,7.237 6.500,2.474 12.000,2.474 9.250,7.237" fill="#584629"/>
+    <polygon points="9.250,7.237 12.000,2.474 17.500,2.474 14.750,7.237" fill="#8f6e33"/>
+    <polygon points="12.000,12.000 14.750,7.237 17.500,12.000 14.750,16.763" fill="#5fd0e3"/>
+    <polygon points="14.750,16.763 17.500,12.000 20.250,16.763 17.500,21.526" fill="#438997"/>
+    <polygon points="14.750,7.237 17.500,2.474 20.250,7.237 17.500,12.000" fill="#438997"/>
+    <polygon points="17.500,12.000 20.250,7.237 23.000,12.000 20.250,16.763" fill="#2f5560"/>
+    <polygon points="1.000,12.000 3.750,16.763 9.250,16.763 6.500,12.000" fill="#398b6b"/>
+    <polygon points="6.500,12.000 9.250,16.763 14.750,16.763 12.000,12.000" fill="#4fd39c"/>
+    <polygon points="3.750,16.763 6.500,21.526 12.000,21.526 9.250,16.763" fill="#295648"/>
+    <polygon points="9.250,16.763 12.000,21.526 17.500,21.526 14.750,16.763" fill="#398b6b"/>
+  </g>
+</svg>
