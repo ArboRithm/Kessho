@@ -48,7 +48,7 @@ The [agent guide](https://arborithm.github.io/Kessho/en/agent/) walks through re
 | **macOS**   | Apple Silicon, macOS 11 or later | `Kessho_<version>_aarch64.dmg`   |
 | **Windows** | x64                              | `Kessho_<version>_x64-setup.exe` |
 
-Get them from the [latest release](https://github.com/ArboRithm/Kessho/releases/latest). The macOS build of **0.3.0**, the first public release, is available now; the Windows installer follows. Kessho then offers its own updates — nothing installs without your consent.
+Get them from the [latest release](https://github.com/ArboRithm/Kessho/releases/latest). **0.3.0** is the first public release. Kessho then offers its own updates — nothing installs without your consent.
 
 The macOS build is signed and notarized by Apple. The Windows installer is not signed yet: if SmartScreen warns you, choose **More info**, then **Run anyway**.
 
